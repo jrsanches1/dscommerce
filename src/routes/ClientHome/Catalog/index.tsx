@@ -1,8 +1,8 @@
 import './styles.css';
-import HeaderClient from '../../components/HeaderClient';
-import SearchBar from '../../components/SearchBar';
-import CatalogCard from '../../components/CatalogCard';
-import ButtonNextPage from '../../components/ButtonNextPage';
+import HeaderClient from '../../../components/HeaderClient';
+import SearchBar from '../../../components/SearchBar';
+import CatalogCard from '../../../components/CatalogCard';
+import ButtonNextPage from '../../../components/ButtonNextPage';
 
 export default function Catalog() {
 

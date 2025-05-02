@@ -8,9 +8,3 @@ export type ProductDTO = {
     imgUrl: string; 
     categories: categoryDTO[];
 }
-
-
-
-
-
-/* DTO = data transfer object */

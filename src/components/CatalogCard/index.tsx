@@ -9,7 +9,7 @@ export default function CatalogCard() {
                 <img src={computerImg} alt="Computer" />
             </div>
             <div className="dsc-catalog-card-bottom">
-                <h3>R$ 5000,00</h3>
+                <h3>R$ 2500.99</h3>
                 <h4>
                     Computador Gamer XT
                 </h4>
